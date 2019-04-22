@@ -1,0 +1,12 @@
+{
+  "name": "project-javascript-oop",
+  "version": "1.0.0",
+  "description": "This is OOP Javascript exercise",
+  "main": "index.js",
+  "author": "Sarah",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}
